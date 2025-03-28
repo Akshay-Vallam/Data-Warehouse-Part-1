@@ -71,7 +71,6 @@ data-warehouse-project/
 │
 └── README.md                           # Project overview and instructions
 
-```
 ## Source of Inspiration
 
 This project draws ideas, datasets or code structures from the project featured on Youtube channel - Data with Baraa.

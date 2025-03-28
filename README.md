@@ -53,6 +53,7 @@ data-warehouse-part-1/
 │   ├── data_flow.png                   # Diagram showing data flow 
 │   ├── data_model.png                  # Diagram showing data models (star schema)
 │   ├── data_integration.png            # Diagram showing relation between tables
+│   ├── project-phases_notion.pdf       # Document showing various project phases
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   └── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │

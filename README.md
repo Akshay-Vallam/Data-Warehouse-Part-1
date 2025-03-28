@@ -2,7 +2,7 @@
 
 This is a 2 part project which demonstrates a comprehensive data warehousing (Part 1) and analytics solution (Part 2), from building a data warehouse to generating actionable insights. 
 
-![Modern Data Stack Warehouse](https://github.com/Akshay-Vallam/Data-Warehouse-Part-1/blob/main/Modern-Data-Stack-Warehouse_image.png)
+![Modern Data Stack Warehouse](docs/Modern-Data-Stack-Warehouse_image.png)
 *Image Credit: spauldingridge.com*
 
 # Data Warehouse Project - Part 1

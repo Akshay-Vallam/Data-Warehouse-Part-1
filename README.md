@@ -1,4 +1,3 @@
-
 # Data Warehouse and Analytics Project
 
 This is a 2 part project which demonstrates a comprehensive data warehousing (Part 1) and analytics solution (Part 2), from building a data warehouse to generating actionable insights. 
@@ -6,10 +5,9 @@ This is a 2 part project which demonstrates a comprehensive data warehousing (Pa
 ![Modern Data Stack Warehouse](https://github.com/Akshay-Vallam/Data-Warehouse-Part-1/blob/main/Modern-Data-Stack_Warehouse_image.png)
 *Image Credit: spauldingridge.com*
 
----
+
 # Data Warehouse Project - Part 1 of Data Warehouse and Analytics Project
 
----
 ## Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
@@ -19,7 +17,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
----
 ## Project Overview
 
 This project involves:
@@ -28,12 +25,10 @@ This project involves:
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 
----
 ## Project Phases - Epics and Tasks
 
 **[Notion Project Steps](https://www.notion.so/SQL-Data-Warehouse-Project-1c13f4db0b7e80b9adcaf107b9417f41?pvs=4):** Project Phases on Notion.
 
----
 ## Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
@@ -48,9 +43,9 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
----
+
 ## Repository Structure
-```
+
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -71,7 +66,7 @@ data-warehouse-project/
 │
 └── README.md                           # Project overview and instructions
 
----
+
 ## Source of Inspiration
 
 This project draws ideas, datasets or code structures from the project featured on Youtube channel - Data with Baraa.

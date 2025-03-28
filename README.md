@@ -2,7 +2,7 @@
 
 This is a 2 part project which demonstrates a comprehensive data warehousing (Part 1) and analytics solution (Part 2), from building a data warehouse to generating actionable insights. 
 
-![Modern Data Stack Warehouse](docs/Modern-Data-Stack-Warehouse_image.png)
+![Modern Data Stack Warehouse](docs/Modern-Data-Stack-Warehouse.png)
 *Image Credit: spauldingridge.com*
 
 # Data Warehouse Project - Part 1
@@ -49,6 +49,7 @@ data-warehouse-part-1/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
+│   ├── Modern-Data-Stack-Warehouse.png # Diagram showing project's architecture
 │   ├── data_architecture.png           # Diagram showing project's architecture
 │   ├── data_flow.png                   # Diagram showing data flow 
 │   ├── data_model.png                  # Diagram showing data models (star schema)

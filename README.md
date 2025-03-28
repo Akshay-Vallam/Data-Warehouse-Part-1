@@ -2,9 +2,8 @@
 
 This is a 2 part project which demonstrates a comprehensive data warehousing (Part 1) and analytics solution (Part 2), from building a data warehouse to generating actionable insights. 
 
-![Modern Data Stack Warehouse](https://github.com/Akshay-Vallam/Data-Warehouse-Part-1/blob/main/Modern-Data-Stack_Warehouse_image.png)
+![Modern Data Stack Warehouse](https://github.com/Akshay-Vallam/Data-Warehouse-Part-1/blob/main/Modern-Data-Stack-Warehouse_image.png)
 *Image Credit: spauldingridge.com*
-
 
 # Data Warehouse Project - Part 1 of Data Warehouse and Analytics Project
 
@@ -43,17 +42,17 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Scope**: Focus on the latest dataset only; historization of data is not required.
 - **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-
 ## Repository Structure
 ```
-data-warehouse-project/
+data-warehouse-part-1/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
 │   ├── data_architecture.png           # Diagram showing project's architecture
 │   ├── data_flow.png                   # Diagram showing data flow 
-│   ├── data_models.png                 # Diagram showing data models (star schema)
+│   ├── data_model.png                  # Diagram showing data models (star schema)
+│   ├── data_integration.png            # Diagram showing relation between tables
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   └── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │

@@ -49,7 +49,7 @@ data-warehouse-part-1/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── Modern-Data-Stack-Warehouse.png # Diagram showing project's architecture
+│   ├── Modern-Data-Stack-Warehouse.png # Image of modern data stack warehouse
 │   ├── data_architecture.png           # Diagram showing project's architecture
 │   ├── data_flow.png                   # Diagram showing data flow 
 │   ├── data_model.png                  # Diagram showing data models (star schema)

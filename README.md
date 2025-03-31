@@ -2,6 +2,10 @@
 
 This is a 2 part project which demonstrates a comprehensive data warehousing (Part 1) and analytics solution (Part 2), from building a data warehouse to generating actionable insights. 
 
+The Data Warehouse (Part 1) of the Data Warehouse and Analytics project includes a comprehensive collection of SQL scripts to create a centralized repository, collect, store, and analyze data from various sources. It also includes planning, gathering requirements, designing data models, and implementing the ETL (Extract, Transform, Load) process to provide clean, structured data for reporting and decision-making.
+
+This repository contains SQL queries developed to assist data engineers to efficiently collect, transform, and store data from diverse sources. It involves creating scalable ETL pipelines, optimizing data models, and ensuring data quality and integrity for seamless analysis.
+
 ![Modern Data Stack Warehouse](docs/Modern-Data-Stack-Warehouse.png)
 *Image Credit: spauldingridge.com*
 
